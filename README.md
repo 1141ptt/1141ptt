@@ -7,7 +7,7 @@
 
 Now,fighting!💪💪
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1141ptt)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=1141ptt&theme=highcontrast&show_icons=true&count_private=true)
 
 <!---
 1141ptt/1141ptt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
